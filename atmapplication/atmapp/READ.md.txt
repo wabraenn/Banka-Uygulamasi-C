@@ -1,0 +1,62 @@
+# 🏦 Banka Otomasyonu (C Programı)
+
+Bu proje, **C diliyle** yazılmış dosya tabanlı bir **banka otomasyonu uygulamasıdır**.  
+Kullanıcılar kayıt olabilir, giriş yapabilir, bakiye sorgulama, para yatırma ve para çekme işlemlerini gerçekleştirebilir.  
+Ayrıca, güvenlik sorusu aracılığıyla şifre sıfırlama özelliği de bulunmaktadır.
+
+---
+
+## 🚀 Özellikler
+
+- 👤 **Kayıt Olma** – Yeni kullanıcı oluşturma ve bilgileri `veriler.txt` dosyasına kaydetme  
+- 🔐 **Giriş Yapma** – TC ve şifreyle kullanıcı doğrulama  
+- 💰 **Para Yatırma / Çekme** – Bakiye üzerinde temel işlemler  
+- 📄 **Veri Kaydı** – Tüm kullanıcı bilgileri `veriler.txt` dosyasında saklanır  
+- 🧩 **Şifre Sıfırlama** – Güvenlik sorusu ile şifre değiştirme
+
+---
+
+## 🧠 Kullanım
+
+1. `main.c` dosyasını C derleyicinizde (örneğin Code::Blocks, Dev-C++, VS Code) açın.  
+2. Programı çalıştırın.  
+3. Açılan menüden yapmak istediğiniz işlemi seçin:
+
+
+---
+
+## 📂 Dosya Yapısı
+
+| Dosya Adı | Açıklama |
+|------------|-----------|
+| `main.c` | Ana kaynak kod |
+| `veriler.txt` | Kullanıcı kayıt ve bakiye bilgilerinin saklandığı dosya |
+
+---
+
+## 🧾 Örnek Kayıt Akışı
+
+1. İsim girin (harf dışında karakter kabul edilmez)  
+2. 11 haneli TC kimlik numarası girin  
+3. 4 basamaklı şifre oluşturun  
+4. Güvenlik sorusu seçin ve cevabınızı yazın  
+5. Kayıt tamamlandığında bilgiler dosyaya kaydedilir ✅
+
+---
+
+## 🧑‍💻 Geliştirici
+
+**Muhammed Halid Çelik**  
+📎 [LinkedIn Profilim](www.linkedin.com/in/muhammet-çelik-68b04a387)  
+📎 [GitHub Profilim](https://github.com/wabraenn)
+
+---
+
+## 📜 Lisans
+
+Bu proje kişisel öğrenme ve geliştirme amacıyla oluşturulmuştur.  
+İsteyen herkes kodu inceleyebilir, geliştirebilir veya paylaşabilir.
+
+---
+
+⭐ Eğer bu projeyi beğendiysen, GitHub üzerinde bir yıldız bırakmayı unutma!

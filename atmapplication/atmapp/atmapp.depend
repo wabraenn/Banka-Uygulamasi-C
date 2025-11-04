@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1762266631 source:c:\users\xmuha\onedrive\desktop\atmapplication\atmapp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
